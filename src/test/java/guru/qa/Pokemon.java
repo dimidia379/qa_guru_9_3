@@ -1,6 +1,6 @@
 package guru.qa;
 
-public class Pocemon {
+public class Pokemon {
     String name;
     int pokedexNumber;
     String type;

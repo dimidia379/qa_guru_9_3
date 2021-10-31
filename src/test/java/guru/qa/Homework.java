@@ -13,8 +13,8 @@ public class Homework {
         chuckNorris.getTheOscar();
 
 
-        Pocemon bulbasaur = new Pocemon();
-        Pocemon charmander = new Pocemon();
+        Pokemon bulbasaur = new Pokemon();
+        Pokemon charmander = new Pokemon();
         bulbasaur.name = "Bulbasaur";
         bulbasaur.pokedexNumber = 1;
         bulbasaur.type = "grass";
